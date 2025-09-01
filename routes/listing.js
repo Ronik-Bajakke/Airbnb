@@ -51,7 +51,7 @@ router.route("/:id")
 
 
 //Edit route
-router.get("/:id/edit",isOwner,isLoggedIn,wrapAsync(listingController.renderEditForm));
+router.get("/:id/edit",isLoggedIn,isOwner,wrapAsync(listingController.renderEditForm));
 
 
 
