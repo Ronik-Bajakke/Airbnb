@@ -123,4 +123,4 @@ Ronik Bajakke
 
 💼 Aspiring MERN Stack Developer
 
-🌐 Live Demo-https://delta-project-z9jy.onrender.com
+🔗 **Live Demo**: [Wanderlust on Render](https://delta-project-z9jy.onrender.com)  
