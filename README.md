@@ -70,22 +70,22 @@ Users can **sign up, list their homes, explore other listings, view them on a ma
 
 ## 🧩 Project Structure  
 
+```bash
 Wanderlust/
-├── controllers/ # Business logic
-├── models/ # Database schemas (Mongoose)
-├── public/ # Static assets (CSS, JS, images)
-├── routes/ # Application routes
-├── seeds/ # Seed data for testing
-├── utils/ # Helper functions
-├── views/ # EJS templates (frontend)
-├── app.js # Main app entry point
-├── cloudConfig.js # Cloudinary config
-├── middleware.js # Middleware for auth, validation
-├── schema.js # Joi validation schema
+├── controllers/       # Business logic
+├── models/            # Database schemas (Mongoose)
+├── public/            # Static assets (CSS, JS, images)
+├── routes/            # Application routes
+├── seeds/             # Seed data for testing
+├── utils/             # Helper functions
+├── views/             # EJS templates (frontend)
+├── app.js             # Main app entry point
+├── cloudConfig.js     # Cloudinary config
+├── middleware.js      # Middleware for auth, validation
+├── schema.js          # Joi validation schema
 └── README.md
+```
 
-yaml
-Copy code
 
 ---
 
