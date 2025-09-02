@@ -1,6 +1,6 @@
 # ✨ Wanderlust - Airbnb Clone  
 
-![Banner](./assets/banner.png)
+![Banner](/assets/banner.png)
 
 ---
 
@@ -41,19 +41,19 @@ Users can **sign up, list their homes, explore other listings, view them on a ma
 ## 🖼️ Screenshots  
 
 ### 🎨 Banner  
-![Banner](./assets/banner.png)
+![Banner](/assets/banner.png)
 
 ### ➕ Create Listing  
-![Create Listing](./assets/create-listing.png)
+![Create Listing](/assets/create-listing.png)
 
 ### 🏠 Home Page  
-![Home Page](./assets/home.png)
+![Home Page](/assets/home.png)
 
 ### 🗺️ Map Integration  
-![Map](./assets/map.png)
+![Map](/assets/map.png)
 
 ### ⭐ Reviews  
-![Reviews](./assets/review.png)
+![Reviews](/assets/review.png)
 
 ---
 
