@@ -5,7 +5,7 @@
 ---
 
 ## 📖 Overview  
-**Wanderlust** is a full-stack **Airbnb Clone** built with the **MERN Stack** using the **MVC (Model-View-Controller) architecture**.  
+**Wanderlust** is a full-stack **Airbnb Clone** built with the **Node.js, Express, MongoDB, and EJS templates**  using the **MVC (Model-View-Controller) architecture**.  
 Users can **sign up, list their homes, explore other listings, view them on a map, and leave reviews** with star ratings.  
 
 🔗 **Live Demo**: [Wanderlust on Render](https://delta-project-z9jy.onrender.com)  
@@ -44,7 +44,7 @@ Users can **sign up, list their homes, explore other listings, view them on a ma
 ![Banner](/Assets/banner.png)
 
 ### ➕ Create Listing  
-![Create Listing](/Assets/create-listing.png)
+![Create Listing](/Assets/CreateListing.png)
 
 ### 🏠 Home Page  
 ![Home Page](/Assets/home.png)
