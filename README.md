@@ -40,9 +40,6 @@ Users can **sign up, list their homes, explore other listings, view them on a ma
 
 ## 🖼️ Screenshots  
 
-### 🎨 Banner  
-![Banner](/Assets/banner.png)
-
 ### ➕ Create Listing  
 ![Create Listing](/Assets/CreateListing.png)
 
