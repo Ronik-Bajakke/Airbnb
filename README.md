@@ -11,6 +11,9 @@ Users can **sign up, list their homes, explore other listings, view them on a ma
 🔗 **Live Demo**: [Wanderlust on Render](https://delta-project-z9jy.onrender.com)  
 
 ---
+## 🎥 Project Demo
+
+<video src="/wanderlust-demo.mp4" controls width="700"></video>
 
 ## 🚀 Features  
 
