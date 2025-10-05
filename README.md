@@ -13,7 +13,7 @@ Users can **sign up, list their homes, explore other listings, view them on a ma
 ---
 ## 🎥 Project Demo
 
-<video src="/Wanderlust.mp4" controls width="700"></video>
+<video src="Wanderlust.mp4" controls width="700"></video>
 
 ## 🚀 Features  
 
