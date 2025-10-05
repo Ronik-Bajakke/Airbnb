@@ -3,6 +3,7 @@
 ![Banner](/Assets/banner.png)
 
 ---
+## 🎥 Project Demo
 
 https://github.com/user-attachments/assets/f75d5197-72f5-41c7-abd6-4e4608f4480c
 
@@ -15,9 +16,6 @@ Users can **sign up, list their homes, explore other listings, view them on a ma
 🔗 **Live Demo**: [Wanderlust on Render](https://delta-project-z9jy.onrender.com)  
 
 ---
-## 🎥 Project Demo
-
-<video src="Wanderlust(2).mp4" controls width="700"></video>
 
 ## 🚀 Features  
 
