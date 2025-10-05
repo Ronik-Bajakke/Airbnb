@@ -50,14 +50,18 @@ Users can **sign up, list their homes, explore other listings, view them on a ma
 ### ➕ Create Listing  
 ![Create Listing](/Assets/CreateListing.png)
 
+
 ### 🏠 Home Page  
 ![Home Page](/Assets/home.png)
+
 
 ### 🗺️ Map Integration  
 ![Map](/Assets/map.png)
 
+
 ### ⭐ Reviews  
 ![Reviews](/Assets/review.png)
+
 
 ---
 
