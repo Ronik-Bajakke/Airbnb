@@ -3,6 +3,11 @@
 ![Banner](/Assets/banner.png)
 
 ---
+## 🎥 Project Demo
+
+https://github.com/user-attachments/assets/f75d5197-72f5-41c7-abd6-4e4608f4480c
+
+
 
 ## 📖 Overview  
 **Wanderlust** is a full-stack **Airbnb Clone** built with the **Node.js, Express, MongoDB, and EJS templates**  using the **MVC (Model-View-Controller) architecture**.  
@@ -43,14 +48,18 @@ Users can **sign up, list their homes, explore other listings, view them on a ma
 ### ➕ Create Listing  
 ![Create Listing](/Assets/CreateListing.png)
 
+
 ### 🏠 Home Page  
 ![Home Page](/Assets/home.png)
+
 
 ### 🗺️ Map Integration  
 ![Map](/Assets/map.png)
 
+
 ### ⭐ Reviews  
 ![Reviews](/Assets/review.png)
+
 
 ---
 
