@@ -98,29 +98,36 @@ Deployed with [Render](https://render.com) 🚀
 
 ## 📌 How to Run Locally  
 
+
+1. Clone repo
 ```bash
-# Clone repo
 git clone https://github.com/yourusername/wanderlust.git
-
-# Go inside
+```
+2. Go inside
+```bash
 cd wanderlust
-
-# Install dependencies
+```
+3. Install dependencies
+```bash
 npm install
-
-# Setup environment variables (.env)
+```
+4. Setup environment variables (.env)
+```bash
 MONGO_URI=your_mongo_db
 CLOUDINARY_KEY=your_key
 CLOUDINARY_SECRET=your_secret
 SESSION_SECRET=your_session_secret
-
-# Start the app
+```
+5. Start the app
+```bash
 npm start
 App will run on http://localhost:8080/ 🎉
+```
 
-👨‍💻 Author
-Ronik Bajakke
+## 👨‍💻 Author  
 
-💼 Aspiring MERN Stack Developer
+**Ronik Bajakke**  
+💼 Aspiring MERN Stack Developer  
+🌐 Passionate about building meaningful, farmer-centric web solutions  
 
  
